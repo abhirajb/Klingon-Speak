@@ -1,3 +1,3 @@
-# Minion-Speak
- Translates english text into Minion language
+# Klingon-Speak --"Language invented by Dr. sheldon Cooper"
+ Translates english text into Klingon language
 
