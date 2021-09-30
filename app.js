@@ -6,7 +6,7 @@ var output = document.querySelector("#result");
 //console.log(output);
 // var storeInputValue = txtInput.value;
 
-var translatorUrl = "https://api.funtranslations.com/translate/klingon.json"
+var translatorUrl = "https://api.funtranslations.com/translate/minion.json"
 
 function langTranslatorUrl(text){
     return translatorUrl+"?"+"text="+text;
