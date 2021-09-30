@@ -1,2 +1,2 @@
 # Minion-Speak
- Translator -to minion language
+ Translates English text into language of the Minions
